@@ -1,6 +1,6 @@
 # [Warning! Unmaintained version! ![Unmaintained branch](https://img.shields.io/badge/manintainance%20status-unmaintained%20for%20now-red.svg)](https://github.com/MeLlamoPablo/schedulebot/issues/29)
 
-Please see [this issue](https://github.com/MeLlamoPablo/schedulebot/issues/29) for an explanation about why the Standard version is not currently being maintained. **The Dota 2 version *is* still maintained; it's not affected by this**.
+Please see [this issue](https://github.com/MarLarsen/schedulebot/issues/29) for an explanation about why the Standard version is not currently being maintained. **The Dota 2 version *is* still maintained; it's not affected by this**.
 
 # ScheduleBot
 > A Discord bot that makes scheduling easy
@@ -8,7 +8,7 @@ Please see [this issue](https://github.com/MeLlamoPablo/schedulebot/issues/29) f
 *Note: you're currently viewing the Standard version. There is also a Dota 2 version available, 
 which supports the automatic creation of inhouse lobbies in the game Dota 2. If you're looking 
 for that version, click
-[here](https://github.com/MeLlamoPablo/schedulebot/tree/dota#schedulebot--dota-edition).*
+[here](https://github.com/MarLarsen/schedulebot/tree/dota#schedulebot--dota-edition).*
 
 ScheduleBot is a bot that manages events, such as a practice game with your team, or a league
 inhouse, or a tournament match.
@@ -40,7 +40,7 @@ To run ScheduleBot locally, you will need:
 Start by cloning this repo, and then install the dependencies:
 
 ```sh
-$ git clone https://github.com/MeLlamoPablo/schedulebot.git
+$ git clone https://github.com/MarLarsen/schedulebot.git
 $ cd schedulebot
 $ npm install
 ```
